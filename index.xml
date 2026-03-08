@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Asteralog</title>
+      <link>https://blog.asteralog.ru</link>
+      <description>Последние 10 заметок on Asteralog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Как перестать тянуть сакральное за профанное и овладеть ремеслом</title>
+    <link>https://blog.asteralog.ru/kak-perestat-tyanut-sakralnoe-za-profannoe-i-ovladet-remeslom</link>
+    <guid>https://blog.asteralog.ru/kak-perestat-tyanut-sakralnoe-za-profannoe-i-ovladet-remeslom</guid>
+    <description><![CDATA[ Я вот написал, что ремесленный труд — главная опора художника. ]]></description>
+    <pubDate>Sun, 08 Mar 2026 12:09:07 GMT</pubDate>
+  </item><item>
+    <title>Вместо эпиграфа</title>
+    <link>https://blog.asteralog.ru/intro</link>
+    <guid>https://blog.asteralog.ru/intro</guid>
+    <description><![CDATA[  Astera mea in flore prati jacta est! В игру насмешливых речей, Где свет — лишь миг, но миг — ничей; Предел всему и тишина, В речном потоке — глубина. ]]></description>
+    <pubDate>Sun, 08 Mar 2026 12:09:07 GMT</pubDate>
+  </item><item>
+    <title>Astera mea in verborum cavillatio habitat</title>
+    <link>https://blog.asteralog.ru/</link>
+    <guid>https://blog.asteralog.ru/</guid>
+    <description><![CDATA[ Добро пожаловать в блог Авторский блог художника и исследователя. Здесь публикуются заметки о творчестве, ремесле и внутренней эмиграции. ]]></description>
+    <pubDate>Sun, 08 Mar 2026 12:09:07 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
