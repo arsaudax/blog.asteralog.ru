@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Asteralog</title>
+      <link>https://</link>
+      <description>Последние 10 заметок on Asteralog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Как перестать тянуть сакральное за профанное и овладеть ремеслом</title>
+    <link>https://kak-perestat-tyanut-sakralnoe-za-profannoe-i-ovladet-remeslom</link>
+    <guid>https://kak-perestat-tyanut-sakralnoe-za-profannoe-i-ovladet-remeslom</guid>
+    <description><![CDATA[ Я вот написал, что ремесленный труд — главная опора художника. ]]></description>
+    <pubDate>Sun, 15 Mar 2026 23:35:14 GMT</pubDate>
+  </item><item>
+    <title>Вместо эпиграфа</title>
+    <link>https://intro</link>
+    <guid>https://intro</guid>
+    <description><![CDATA[  Astera mea in flore prati jacta est! В игру насмешливых речей, Где свет — лишь миг, но миг — ничей; Предел всему и тишина, В речном потоке — глубина. ]]></description>
+    <pubDate>Sun, 15 Mar 2026 23:35:14 GMT</pubDate>
+  </item><item>
+    <title>Мой скетч на белой бумаге</title>
+    <link>https://example-sketch</link>
+    <guid>https://example-sketch</guid>
+    <description><![CDATA[  Этот скетч лучше смотрится на светлом фоне, потому что он сделан на белой бумаге. intro graphic-work. ]]></description>
+    <pubDate>Sun, 15 Mar 2026 23:35:14 GMT</pubDate>
+  </item><item>
+    <title>Архив блога</title>
+    <link>https://archive</link>
+    <guid>https://archive</guid>
+    <description><![CDATA[ Все записи блога Здесь собраны все посты в хронологическом порядке. ]]></description>
+    <pubDate>Sun, 15 Mar 2026 23:35:14 GMT</pubDate>
+  </item><item>
+    <title>Astera mea in verborum cavillatio habitat</title>
+    <link>https:///</link>
+    <guid>https:///</guid>
+    <description><![CDATA[ Добро пожаловать в блог Авторский блог художника и исследователя. Здесь публикуются заметки о творчестве, ремесле и внутренней эмиграции. ]]></description>
+    <pubDate>Sun, 15 Mar 2026 23:35:14 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
